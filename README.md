@@ -2,6 +2,7 @@
 
 Ejercicio de bucket sort en python.
 
+'''
 
 def bucket_sort(arr):
     n = len(arr)
@@ -27,3 +28,4 @@ def bucket_sort(arr):
     arr =[0.72,0.21,0.32,0.14,0.68]
     bucket_sort = arr
     
+'''
