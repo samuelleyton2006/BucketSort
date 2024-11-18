@@ -2,10 +2,7 @@
 
 Ejercicio de bucket sort en python .
 
-
-'' python 
-
-def bucket_sort(arr):
+'' def bucket_sort(arr):
     n = len(arr)
     
     buckets = [[] for _ in range(n)]
