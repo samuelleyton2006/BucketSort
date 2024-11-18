@@ -1,7 +1,7 @@
 # BucketSort
 
 Ejercicio de bucket sort en python 
-´´Python 
+´´ python 
 
 def bucket_sort(arr):
     n = len(arr)
