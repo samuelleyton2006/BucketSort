@@ -1,6 +1,8 @@
 # BucketSort
 
-Ejercicio de bucket sort en python 
+Ejercicio de bucket sort en python .
+
+
 '' python 
 
 def bucket_sort(arr):
