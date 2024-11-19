@@ -2,7 +2,7 @@
 
 Ejercicio de bucket sort en python.
 
-```ruby
+```python 
 
 def bucket_sort(arr):
     n = len(arr)
@@ -99,7 +99,7 @@ java 2
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class BucketSort {
+public class Main  {
     public static void bucketSort(int[] arr) {
         if (arr.length == 0) return; // Verificar si el arreglo está vacío
 
